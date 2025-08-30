@@ -43,7 +43,7 @@ A beautiful, modern web app to discover nearby cafés with a stunning lilac them
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/cafe-finder) *(Replace with your actual GitHub Pages URL)*
+https://github.com/shrinidhigcn/cafe_finder/tree/main/cafe%20finder
 
 ## 📱 Screenshots
 
