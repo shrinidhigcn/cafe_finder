@@ -45,13 +45,6 @@ A beautiful, modern web app to discover nearby cafés with a stunning lilac them
 
 https://github.com/shrinidhigcn/cafe_finder/tree/main/cafe%20finder
 
-## 📱 Screenshots
-
-### Desktop View
-*Beautiful lilac gradient background with floating animations*
-
-### Mobile View
-*Responsive design that works perfectly on all devices*
 
 ## 🛠️ Technologies Used
 
@@ -61,24 +54,6 @@ https://github.com/shrinidhigcn/cafe_finder/tree/main/cafe%20finder
 - **Storage**: localStorage for favorites persistence
 - **Icons**: Font Awesome
 - **Fonts**: Google Fonts (Inter)
-
-## 🏃‍♂️ Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/cafe-finder.git
-   cd cafe-finder
-   ```
-
-2. **Open in browser**
-   ```bash
-   # Simply open index.html in any modern browser
-   open index.html
-   # or
-   python -m http.server 8000  # For local development server
-   ```
-
-3. **Allow location access** when prompted for the best experience
 
 ## 📁 Project Structure
 
@@ -106,35 +81,6 @@ The app searches for:
 - `amenity=restaurant` with `cuisine=coffee_shop`
 - `amenity=fast_food` with `cuisine=coffee_shop`
 
-## 🎨 Customization
-
-### Changing Default Location
-Edit `script.js` line 79:
-```javascript
-// Change coordinates to your preferred city
-this.userLocation = { lat: 12.9716, lng: 77.5946 }; // Bengaluru
-```
-
-### Modifying Color Theme
-Edit `style.css` for the main gradient:
-```css
-background: linear-gradient(135deg, #e8d5ff 0%, #c8a8e9 25%, #b794f6 50%, #a18cd6 75%, #9f7aea 100%);
-```
-
-### Adjusting Search Radius
-Edit `script.js` line 132:
-```javascript
-const radius = 3000; // Change radius in meters
-```
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -148,7 +94,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have a cool idea? [Open an issue](https://github.com/your-username/cafe-finder/issues) on GitHub!
+Found a bug or have a cool idea? [Open an issue](https://github.com/shrinidhigcn/cafe-finder/issues) on GitHub!
 
 ---
 
